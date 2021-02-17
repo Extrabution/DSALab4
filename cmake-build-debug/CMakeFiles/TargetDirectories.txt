@@ -1,0 +1,3 @@
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSALab4/cmake-build-debug/CMakeFiles/DSALab4.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSALab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/DSALab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
